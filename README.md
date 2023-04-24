@@ -1,19 +1,8 @@
 <div align="center">
 <h1 align="center">Hola, soy Ignacio González 👋</h1>
 </div>
-<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFhBwm7LTs&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFhBwm7LTs&#x2F;view?utm_content=DAFhBwm7LTs&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Banner Ignacio</a> de Ignacio Gonzalez
+<img href="https://www.canva.com/design/DAFhBwm7LTs/view"/>
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
 ## Sobre mi
 
