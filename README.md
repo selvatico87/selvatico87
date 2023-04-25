@@ -18,43 +18,29 @@
 <table>
   <tr>
   <td width="50%">
-  <h3 align="center">Curso Android Básico</h3>
+  <h3 align="center">App Organiza tu equipo en un solo lugar</h3>
   <div align="center">
-  <a href=""#" target="_blank"><img src="#" width="400" alt="Curso básico android"></a>
-  <p>
-  <a href="#" target="_blank">
-  <img src="#">
-  </a>
-  <a href="#" target="_blank">
-  <img src="#">
-  </a>
-  </p>
-  <p>aqui va un texto</p>
+  <a href="https://org2.vercel.app/" target="_blank"><img src="https://github.com/selvatico87/selvatico87/blob/1dc805175026cada7b972bd7255d6ab6cf6d1e81/org.png" width="400" alt="App Org hecha con React"></a>
+  
+  <p>App hecha como práctica del Curso de React del Programa ONE de Alura Latam y Oracle</p>
   </div>
 
   </td>
 
   <td width="50%">
                  <br>
-  <h3 align="center">Arquitectura MVVM</h3>
+  <h3 align="center">Generador de CV - Argentina Programa 4.0 (mi primera página desde cero)</h3>
   <div align="center">                                       
-  <a href="#" target="_blank"><img src="#" width="400" alt="Curso arquitectura MVVM"></a>
+  <a href="https://cv-arg-progama4-0.vercel.app/" target="_blank"><img src="https://github.com/selvatico87/selvatico87/blob/b0383f7989458c8ed97f618c015269373e831136/cv-arg-programa4.png" width="400" alt="Caputara imagen pagina CV"></a>
   <br>
-  <p>
-  <a href="#" target="_blank">
-  <img src="#">
-  </a>
-  <a href="#" target="_blank">
-  <img src="#">
-  </a>
-  </p>
-  </p> aqui va otro texto</p>
+  
+  </p> Esta es mi primera página hecha totalmente por mi. La presenté como prueba final del Programa Argentina Programa 4.0</p>
   </div>                                                             
 </table>                                                                                 
-</div>
+
 <br>
 
-### ⚙️ &nbsp;GitHub Analytics 
+### ⚙️ &nbsp;GitHub Analytics ###
 
 <p align="center">
   <a href="https://github.com/selvatico87">
