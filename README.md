@@ -6,13 +6,14 @@
 
 ## Sobre mi
 
-- Nací en Guatemala, mi padre venezolano y mi madre argentina, tengo ambas nacionalidades.
+- Nací en Guatemala, vivo en Buenos Aires.
 - Soy Profesor de Geografía e Historia, Egresado de la Universidad Pedagógica Experimental Libertador de Venezuela
 - Trabajé como docente de Informática y Biología. También como Consejero de Protrección de NNyAA.
 - Además tuve un emprendimiento de servicios de oficina, fotografia, fotocopias, impresiones, reparación de PC.
-- Hace unos años tuve que emigrar a Argentina (mi segunda patria), en el 2022 decidí continuar con lo que me apasiona
+- Hace unos años tuve que emigrar a Argentina (mi segunda patria), y en el 2022 decidí continuar con lo que me apasiona
   y empecé a estudiar Programación. Puedo decir que hoy tengo conocimientos básicos para ser programador Front End. 
 - Me encantaría poder tener la primera oportunidad de trabajar y aportar mis conocimientos de diversas areas.
+- Actualmente estoy realizando una Certificación de UX Designer de Google.
 
 ## Mis Proyectos ##
 <table>
