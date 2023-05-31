@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hola, soy Ignacio González 👋</h1>
 </div>
-<img src="https://github.com/selvatico87/selvatico87/blob/7c241a72427f3059cb897034fba225f8abe42571/3.png"/>
+<img src="https://github.com/selvatico87/selvatico87/blob/81ada2d4621807b8b57491389eed5c7068fabd84/3.png"/>
 
 
 ## Sobre mi
